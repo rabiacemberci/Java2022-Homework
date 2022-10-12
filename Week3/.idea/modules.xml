@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HW1/HW1.iml" filepath="$PROJECT_DIR$/HW1/HW1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW3/HW3.iml" filepath="$PROJECT_DIR$/HW3/HW3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Week3.iml" filepath="$PROJECT_DIR$/.idea/Week3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW2/abstractClasses/abstractClasses.iml" filepath="$PROJECT_DIR$/HW2/abstractClasses/abstractClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW2/abstractDemo/abstractDemo.iml" filepath="$PROJECT_DIR$/HW2/abstractDemo/abstractDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW2/classesWithAttributes/classesWithAttributes.iml" filepath="$PROJECT_DIR$/HW2/classesWithAttributes/classesWithAttributes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW2/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/HW2/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW2/inheritanceDemo/inheritanceDemo.iml" filepath="$PROJECT_DIR$/HW2/inheritanceDemo/inheritanceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW2/interfaceDemo/interfaceDemo.iml" filepath="$PROJECT_DIR$/HW2/interfaceDemo/interfaceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW2/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/HW2/interfaces/interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW2/methodOverloading/methodOverloading.iml" filepath="$PROJECT_DIR$/HW2/methodOverloading/methodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW2/overriding/overriding.iml" filepath="$PROJECT_DIR$/HW2/overriding/overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW2/polymorphsimDemo/polymorphsimDemo.iml" filepath="$PROJECT_DIR$/HW2/polymorphsimDemo/polymorphsimDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW2/staticDemo/staticDemo.iml" filepath="$PROJECT_DIR$/HW2/staticDemo/staticDemo.iml" />
+    </modules>
+  </component>
+</project>
